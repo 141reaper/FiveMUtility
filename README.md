@@ -56,7 +56,7 @@ Currently, FiveM Utility is **Closed Source**. We are considering opening the so
 We understand that running closed-source tools requires trust. To ensure complete transparency regarding the security of this application, every release is scanned via VirusTotal. 
 
 **🛡️ VirusTotal Scan for v1.0.0:**  
-👉 [Click here to view the VirusTotal Report](https://www.virustotal.com/) *(Replace this link with your actual VT scan link)*
+👉 [Click here to view the VirusTotal Report]([https://www.virustotal.com/](https://www.virustotal.com/gui/file/ca6e2bbed8dc14d81c26c778e73456097b2b5e6121904132cdf79e943d9393c3?nocache=1)) 
 
 ## 💬 Support & Feedback
 
