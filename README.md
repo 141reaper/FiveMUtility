@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/141reaper/FiveM-Utility/main/FiveMUtility.App/Assets/StoreLogo.png" alt="FiveM Utility Logo" width="150" height="150">
 
   # FiveM Utility
   
@@ -43,7 +42,7 @@ Built with **C# and WinUI 3**, it feels native to Windows 11 while providing dee
 
 ## 📥 Download & Installation
 
-1. Go to the [Releases](https://github.com/[YOUR-USERNAME]/[YOUR-REPO]/releases) page.
+1. Go to the [Releases](https://github.com/141reaper/FiveMUtility/releases) page.
 2. Download the latest `FiveMUtility_Setup_x.x.x.exe`.
 3. Run the installer and follow the instructions.
 4. Launch **FiveM Utility** from your Start Menu!
